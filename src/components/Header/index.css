@@ -1,0 +1,12 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+.second-nav-container {
+  display: flex;
+  list-style-type: none;
+}
+.li-item {
+  margin-left: 6px;
+  margin-right: 6px;
+}
